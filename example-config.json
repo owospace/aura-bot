@@ -1,0 +1,7 @@
+// This config file is NOT read by the bot. //
+// rename this file to 'config.json' or     //
+// mv example-config.json config.json       //
+
+{
+    "token": ""
+}
