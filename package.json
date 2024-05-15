@@ -4,11 +4,13 @@
   "description": "Aura bot for Discord",
   "main": "bot.js",
   "scripts": {
+    "dev": "nodemon bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "owospace",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.15.2"
+    "discord.js": "^14.15.2",
+    "nodemon": "^3.1.0"
   }
 }
