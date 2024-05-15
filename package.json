@@ -1,0 +1,14 @@
+{
+  "name": "aura-bot",
+  "version": "1.0.0",
+  "description": "Aura bot for Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "owospace",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  }
+}
